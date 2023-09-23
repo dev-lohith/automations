@@ -1,2 +1,2 @@
 # automations
-self automations
+selenium & pyautogui
